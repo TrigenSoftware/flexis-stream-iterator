@@ -1,0 +1,21 @@
+{
+  "generator-trigen-lib": {
+    "editPackage": true,
+    "pkg": {
+      "name": "@flexis/stream-iterator",
+      "version": "1.0.0-alpha",
+      "description": "Stream to async iterator helper.",
+      "repository": "https://github.com/TrigenSoftware/flexis-stream-iterator",
+      "author": "dangreen"
+    },
+    "type": "node",
+    "lang": "ts",
+    "rollup": true,
+    "jest": true,
+    "coverage": true,
+    "publishAsRoot": false,
+    "cleanPublish": true,
+    "checkSize": true,
+    "gitInit": true
+  }
+}
